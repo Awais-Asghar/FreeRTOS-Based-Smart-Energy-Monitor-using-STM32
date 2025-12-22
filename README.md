@@ -55,29 +55,11 @@ This project implements a **real-time smart energy monitoring and billing system
 - UART Communication  
 - C / C++  
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/39677225-12bf-4093-91ab-c30c6f2f734f" />
+
 ---
 
-## Core Calculations
-
-- **Current RMS**
-\[
-I_{rms} = \sqrt{\frac{1}{N} \sum (i_n - \bar{i})^2}
-\]
-
-- **Power**
-\[
-P = V_{rms} \times I_{rms} \times PF
-\]
-
-- **Energy**
-\[
-Energy (kWh) = \frac{P \times t}{1000}
-\]
-
-- **Billing**
-\[
-Bill = Energy \times CostPerUnit
-\]
+## Core Implementation 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/02ad9740-2362-43a5-97c4-a579fc8e8cf5" />
 
@@ -99,6 +81,16 @@ Mutexes are used to protect shared data across tasks.
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a7c97ada-6c27-4410-9770-7f544bd89809" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fcfff1ea-aa3b-4faa-8c73-9d5cd25a0897" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9c0c27b8-1651-4e5e-929b-40c18122d055" />
+
+---
+
+## Hardware Implementation
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6de8c5e1-3d40-42e4-b017-960eae6965fe" />
+
 ---
 
 ## Results
@@ -108,6 +100,12 @@ Mutexes are used to protect shared data across tasks.
 - Live cloud updates every 5 seconds  
 - Robust real-time performance using FreeRTOS  
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5e65149a-96e4-4a2f-b78f-0195a3317b8d" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/69ea2ebf-acbc-4d69-9620-0406c8ec76c8" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c25b0867-d8c6-4965-be92-5310b40e9ae8" />
+
 ---
 
 ## Applications
@@ -116,6 +114,8 @@ Mutexes are used to protect shared data across tasks.
 - Industrial power usage tracking  
 - Smart metering systems  
 - Energy consumption analysis  
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aac3681e-aee5-4a2a-a970-ad773787d571" />
 
 ---
 
@@ -130,6 +130,20 @@ https://github.com/user-attachments/assets/38ebc3f2-3e4e-472e-ad77-98723180af24
 - Saad Farooq  
 - Aneeqa Ur Rehman  
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7befec41-7d42-432c-a2e2-155f0b0d006c" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/346af123-a0d1-416b-ba71-0dd4cace59d6" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/51f636ab-92c5-4b07-a5ca-efefb821ccfe" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/34b53777-6a60-48ee-9b24-819a07e18fd8" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1cb026ce-8677-43c1-852c-a42b492bea64" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4422d911-1edf-47b8-82a3-0826c85d0d0a" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d75f2d7b-2a0e-4231-87b3-fd84247a93e1" />
+
 ---
 
 ## References
@@ -138,6 +152,8 @@ https://github.com/user-attachments/assets/38ebc3f2-3e4e-472e-ad77-98723180af24
 - ESP32 Technical Reference  
 - Firebase Realtime Database Documentation  
 - FreeRTOS Official Documentation  
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/efe77b9d-cdf6-45f9-a92c-438f94f5b3c0" />
 
 ---
 
