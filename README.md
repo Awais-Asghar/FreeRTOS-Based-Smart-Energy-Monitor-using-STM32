@@ -1,4 +1,4 @@
-# FreeRTOS-Based Smart Energy Monitor using STM32F746
+# FreeRTOS-Based Smart Energy Monitor using STM32
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-Embedded-blue)
 ![MCU](https://img.shields.io/badge/MCU-STM32F746%20%7C%20ESP32-pink)
